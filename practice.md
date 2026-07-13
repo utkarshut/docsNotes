@@ -1,0 +1,11 @@
+- practice comparable on emp Arrays.sort(emp) --> takes comparable 
+- practice comparator -> Arrays.sort(emp,NameCustomComparator)
+- practice clonable
+- practice serializable
+- immutable class
+- singleton class
+- Make hashcode and equals for deep equal and equal in java 
+- Association aggreggation composition
+- Create functional Interface
+- Method reference , why ??
+- Predicate 
